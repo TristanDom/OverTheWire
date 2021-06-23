@@ -1,0 +1,14 @@
+********************* Nombre *********************
+Bandit 	5
+
+********************* Conexión *********************
+sudo ssh bandit5@bandit.labs.overthewire.org -p 2220
+
+********************* Descripción *********************
+Archivo de carpeta único leíble por humanos.
+
+********************* Comando *********************
+file ./inhere/* -h
+
+********************* Bandera *********************
+koReBOKuIDDepwhWk7jZC0RTdopnAYKh
