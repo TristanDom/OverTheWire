@@ -2,7 +2,7 @@
 Bandit 	4
 
 ********************* Conexión *********************
-sudo ssh bandit1@bandit.labs.overthewire.org -p 2220
+sudo ssh bandit4@bandit.labs.overthewire.org -p 2220
 
 ********************* Descripción *********************
 Archivo dentro de carpeta y oculto. (ls para ver nombre).
