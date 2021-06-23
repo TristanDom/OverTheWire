@@ -1,0 +1,14 @@
+********************* Nombre *********************
+Bandit 	2
+
+********************* Conexión *********************
+sudo ssh bandit1@bandit.labs.overthewire.org -p 2220
+
+********************* Descripción *********************
+Archivo con nombre carácter leíble con la ubicación.
+
+********************* Comando *********************
+cat ./←>	
+
+********************* Bandera *********************
+CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
