@@ -2,7 +2,7 @@
 Bandit 	2
 
 ********************* Conexión *********************
-sudo ssh bandit1@bandit.labs.overthewire.org -p 2220
+sudo ssh bandit2@bandit.labs.overthewire.org -p 2220
 
 ********************* Descripción *********************
 Archivo con nombre carácter leíble con la ubicación.
