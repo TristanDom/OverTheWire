@@ -1,0 +1,14 @@
+********************* Nombre *********************
+Bandit 	4
+
+********************* Conexión *********************
+sudo ssh bandit1@bandit.labs.overthewire.org -p 2220
+
+********************* Descripción *********************
+Archivo dentro de carpeta y oculto. (ls para ver nombre).
+
+********************* Comando *********************
+ls -a
+
+********************* Bandera *********************
+pIwrPrtPN36QITSp3EQaw936yaFoFgAB
