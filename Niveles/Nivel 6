@@ -1,0 +1,14 @@
+********************* Nombre *********************
+Bandit 	6
+
+********************* Conexión *********************
+sudo ssh bandit6@bandit.labs.overthewire.org -p 2220
+
+********************* Descripción *********************
+Archivo en carpetas 1033bytes, -h & no ejecutable.
+
+********************* Comando *********************
+find ./* -size 1033c
+
+********************* Bandera *********************
+DXjZPULLxYr17uwoI01bNLQbtFemEgo7
