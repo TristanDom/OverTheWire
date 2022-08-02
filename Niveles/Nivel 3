@@ -5,7 +5,9 @@ Bandit 	3
 sudo ssh bandit3@bandit.labs.overthewire.org -p 2220
 
 ********************* Descripción *********************
-Archivo con espacios en el nombre.
+Es un archivo con espacios en el nombre, por lo tanto
+par leer el contenido del archivo es necesario hacer 
+uso de las comillas (dobles o simples ambas funcionan).
 
 ********************* Comando *********************
 cat “spaces in this filename”	
