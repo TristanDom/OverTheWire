@@ -5,10 +5,10 @@ Bandit 	2
 sudo ssh bandit2@bandit.labs.overthewire.org -p 2220
 
 ********************* Descripción *********************
-Archivo con nombre carácter leíble con la ubicación.
+Archivo con nombre carácter leíble con la ubicación completa.
 
 ********************* Comando *********************
-cat ./←>	
+cat ./-
 
 ********************* Bandera *********************
 CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
