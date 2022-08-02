@@ -5,10 +5,18 @@ Bandit 	5
 sudo ssh bandit5@bandit.labs.overthewire.org -p 2220
 
 ********************* Descripción *********************
-Archivo de carpeta único leíble por humanos.
+Archivo de carpeta único leíble por humanos, lo cual
+la contraseña es la única con caracteres legibles, se 
+puede encontrar la bandera con el comando file y que 
+solo arroje los resultados legibles para humanos o con
+el comando cat (menos recomendable) que arroje todos 
+los resultados de los archivos y la bandera será la 
+única legible.
 
 ********************* Comando *********************
 file ./inhere/* -h
+
+cat ./inhere/* 
 
 ********************* Bandera *********************
 koReBOKuIDDepwhWk7jZC0RTdopnAYKh
