@@ -5,7 +5,7 @@ Bandit 	0
 sudo ssh bandit0@bandit.labs.overthewire.org -p 2220	
 
 ********************* Descripción *********************
-En la descripción tiene la contraseña.	
+En la descripción tiene la contraseña la cual es necesaria para ingresar al primer nivel.
 
 ********************* Comando *********************
 No necesario.	
