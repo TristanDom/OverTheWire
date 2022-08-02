@@ -6,6 +6,8 @@ sudo ssh bandit4@bandit.labs.overthewire.org -p 2220
 
 ********************* Descripción *********************
 Archivo dentro de carpeta y oculto. (ls para ver nombre).
+los comandos -a, --all hace visible las entradas que comienzan con .
+
 
 ********************* Comando *********************
 ls -a
