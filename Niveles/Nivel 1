@@ -5,7 +5,7 @@ Bandit 	1
 sudo ssh bandit1@bandit.labs.overthewire.org -p 2220
 
 ********************* Descripción *********************
-Sólo hay un archivo leíble con cat.
+Sólo hay un archivo leíble con el comando cat.
 
 ********************* Comando *********************
 cat	
